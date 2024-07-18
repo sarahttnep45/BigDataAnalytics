@@ -1,0 +1,22 @@
+BigDataAnalytics/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   └── big_data_analytics.py
+├── data/
+│   ├── __init__.py
+│   └── sample_data.csv
+├── notebooks/
+│   └── analysis.ipynb
+├── tests/
+│   ├── __init__.py
+│   └── test_big_data_analytics.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
